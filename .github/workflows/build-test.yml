@@ -21,5 +21,8 @@ jobs:
         with:
           node-version: 18
 
+      - name: Install dependencies
+        run: yarn install
+
       - name: 패키지를 빌드하고 있어요.
         run: yarn build
