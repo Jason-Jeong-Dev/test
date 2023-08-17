@@ -1,0 +1,50 @@
+info  - Linting and checking validity of types...
+warn  - The Next.js plugin was not detected in your ESLint configuration. See https://nextjs.org/docs/basic-features/eslint#migrating-existing-config
+info  - Creating an optimized production build...
+info  - Disabled SWC as replacement for Babel because of custom Babel configuration ".babelrc" https://nextjs.org/docs/messages/swc-disabled
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Parsing of /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/plugin.mjs for build dependencies failed at 'import(importPath)'.
+<w> Build dependencies behind this expression are ignored and might cause incorrect cache invalidation.
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: Can't resolve './__temp__' in '/Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist'
+<w> while resolving './__temp__' in /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist as file
+<w>  at resolve esm file ./__temp__
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/compile.mjs
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/compile.mjs
+<w>  at resolve esm file ./compile.mjs
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/loader.mjs
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/loader.mjs
+<w>  at resolve esm file ./dist/loader.mjs
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+<w>  at resolve commonjs /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+<w> [webpack.cache.PackFileCacheStrategy/webpack.FileSystemInfo] Parsing of /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/plugin.mjs for build dependencies failed at 'import(importPath)'.
+<w> Build dependencies behind this expression are ignored and might cause incorrect cache invalidation.
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: Can't resolve './__temp__' in '/Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist'
+<w> while resolving './__temp__' in /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist as file
+<w>  at resolve esm file ./__temp__
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/compile.mjs
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/compile.mjs
+<w>  at resolve esm file ./compile.mjs
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/loader.mjs
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/dist/loader.mjs
+<w>  at resolve esm file ./dist/loader.mjs
+<w>  at file dependencies /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+<w>  at file /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+<w>  at resolve commonjs /Users/junhyeok/hada/shoplflow/.yarn/__virtual__/nextra-virtual-a21a898787/0/cache/nextra-npm-2.11.0-fa83a92e4b-567d2e3b5d.zip/node_modules/nextra/loader.js
+info  - Compiled successfully
+info  - Collecting page data...
+info  - Generating static pages (0/3)
+info  - Generating static pages (3/3)
+info  - Finalizing page optimization...
+
+Route (pages)                              Size     First Load JS
+┌ ○ /                                      88 kB           172 kB
+├   └ css/c6087d4cd06a359c.css             12.1 kB
+└ ○ /404                                   2.71 kB        86.4 kB
++ First Load JS shared by all              83.7 kB
+  ├ chunks/framework-958e8bc6c72284c6.js   45.2 kB
+  ├ chunks/main-ed96381f19c6bca3.js        35.7 kB
+  ├ chunks/pages/_app-585587c05b766cf5.js  857 B
+  └ chunks/webpack-53beec58b5dcac9e.js     1.87 kB
+
+○  (Static)  automatically rendered as static HTML (uses no initial props)
+
